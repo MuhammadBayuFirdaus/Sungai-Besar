@@ -26,21 +26,29 @@ h2::after {
     box-shadow: 0 4px 24px rgba(44, 54, 139, 0.08);
     transition: transform 0.2s, box-shadow 0.2s;
 }
+
 .card:hover {
     transform: translateY(-8px) scale(1.03);
     box-shadow: 0 8px 32px rgba(44, 54, 139, 0.15);
 }
+
 .card-img-top {
     border-radius: 18px 18px 0 0;
     height: 180px;
     object-fit: cover;
 }
+
+.card a {
+    text-decoration: none;
+}
+
 .card-title {
     font-weight: bold;
     font-size: x-large;
     line-height: 75%;
     color: #2c368b;
 }
+
 .card-text {
     color: #444;
 }
@@ -50,14 +58,4 @@ h2::after {
     border-radius: 12px;
     color: white;
     background-color: #2c368b;
-}
-
-/* Tombol */
-.btn.btn-sm {
-    color: white;
-    background-color: #2c368b;
-    transition: color 0.3s;
-}
-.btn.btn-sm:hover {
-    color: #f1b12d;
 }

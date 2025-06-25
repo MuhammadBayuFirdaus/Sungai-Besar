@@ -12,7 +12,7 @@
 <body>
   <nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">
+      <a class="navbar-brand" href="{{ url('/') }}">
         <img src="{{ asset('img/logo Sungai Besar Panjang.png') }}" alt="Logo" class="logo">
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
@@ -22,10 +22,10 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav mx-auto">
           <li class="nav-item">
-            <a class="nav-link" href="#">Berita Terkini</a>
+            <a class="nav-link" href="{{ url('/beritaterkini') }}">Berita Terkini</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Kegiatan</a>
+            <a class="nav-link" href="{{ url('/kegiatan') }}">Kegiatan</a>
           </li>
         </ul>
       <div class="d-flex">

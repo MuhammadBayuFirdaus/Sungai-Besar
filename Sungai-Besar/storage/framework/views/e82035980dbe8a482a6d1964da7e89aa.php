@@ -14,97 +14,102 @@
 
     <!-- Daftar Berita -->
     <div class="container my-5">
-        <h2 class="mb-4">Berita Terbaru</h2>
+        <h2 class="mb-4">Berita Terkini</h2>
         <div class="row">
-         <div class="col-md-4 mb-4">
-            <div class="card h-100">
-            <img src="<?php echo e(asset('img/Default.png')); ?>" class="card-img-top" alt="Politik">
-            <div class="card-body">
-                <div class="d-flex align-items-center mb-2">
-                    <span class="badge mb-0 me-2">Politik</span>
-                    <span class="tanggal" style="">17 Juni 2025</span>
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                <a href="#">
+                <img src="<?php echo e(asset('img/Default.png')); ?>" class="card-img-top" alt="Politik">
+                    <div class="card-body">
+                        <div class="d-flex align-items-center mb-2">
+                            <span class="badge mb-0 me-2">Politik</span>
+                            <span class="tanggal" style="">17 Juni 2025</span>
+                        </div>
+                        <h5 class="card-title">Judul Berita Politik</h5>
+                        <p class="card-text">Ringkasan berita politik terbaru hari ini...</p>
+                    </div>
+                </a>
                 </div>
-                <h5 class="card-title">Judul Berita Politik</h5>
-                <p class="card-text">Ringkasan berita politik terbaru hari ini...</p>
-                <a href="#" class="btn btn-sm">Baca Selengkapnya</a>
             </div>
-            </div>
-        </div>
-         <div class="col-md-4 mb-4">
-            <div class="card h-100">
-            <img src="<?php echo e(asset('img/Default.png')); ?>" class="card-img-top" alt="Politik">
-            <div class="card-body">
-                <div class="d-flex align-items-center mb-2">
-                    <span class="badge mb-0 me-2">Politik</span>
-                    <span class="tanggal" style="">17 Juni 2025</span>
+             <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                <a href="#">
+                <img src="<?php echo e(asset('img/Default.png')); ?>" class="card-img-top" alt="Politik">
+                    <div class="card-body">
+                        <div class="d-flex align-items-center mb-2">
+                            <span class="badge mb-0 me-2">Politik</span>
+                            <span class="tanggal" style="">17 Juni 2025</span>
+                        </div>
+                        <h5 class="card-title">Judul Berita Politik</h5>
+                        <p class="card-text">Ringkasan berita politik terbaru hari ini...</p>
+                    </div>
+                </a>
                 </div>
-                <h5 class="card-title">Judul Berita Politik</h5>
-                <p class="card-text">Ringkasan berita politik terbaru hari ini...</p>
-                <a href="#" class="btn btn-sm">Baca Selengkapnya</a>
             </div>
-            </div>
-        </div>
-        <div class="col-md-4 mb-4">
-            <div class="card h-100">
-            <img src="<?php echo e(asset('img/Default.png')); ?>" class="card-img-top" alt="Politik">
-            <div class="card-body">
-                <div class="d-flex align-items-center mb-2">
-                    <span class="badge mb-0 me-2">Politik</span>
-                    <span class="tanggal" style="">17 Juni 2025</span>
+             <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                <a href="#">
+                <img src="<?php echo e(asset('img/Default.png')); ?>" class="card-img-top" alt="Politik">
+                    <div class="card-body">
+                        <div class="d-flex align-items-center mb-2">
+                            <span class="badge mb-0 me-2">Politik</span>
+                            <span class="tanggal" style="">17 Juni 2025</span>
+                        </div>
+                        <h5 class="card-title">Judul Berita Politik</h5>
+                        <p class="card-text">Ringkasan berita politik terbaru hari ini...</p>
+                    </div>
+                </a>
                 </div>
-                <h5 class="card-title">Judul Berita Politik</h5>
-                <p class="card-text">Ringkasan berita politik terbaru hari ini...</p>
-                <a href="#" class="btn btn-sm">Baca Selengkapnya</a>
             </div>
-            </div>
-        </div>
-        
         </div>
 
-    <h2 class="mb-4">Kegiatan </h2>
+        <h2 class="mb-4">Kegiatan</h2>
         <div class="row">
-        <div class="col-md-4 mb-4">
-            <div class="card h-100">
-            <img src="<?php echo e(asset('img/Default.png')); ?>" class="card-img-top" alt="Politik">
-            <div class="card-body">
-                <div class="d-flex align-items-center mb-2">
-                    <span class="badge mb-0 me-2">Politik</span>
-                    <span class="tanggal" style="">17 Juni 2025</span>
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                <a href="#">
+                <img src="<?php echo e(asset('img/Default.png')); ?>" class="card-img-top" alt="Politik">
+                    <div class="card-body">
+                        <div class="d-flex align-items-center mb-2">
+                            <span class="badge mb-0 me-2">Politik</span>
+                            <span class="tanggal" style="">17 Juni 2025</span>
+                        </div>
+                        <h5 class="card-title">Judul Berita Politik</h5>
+                        <p class="card-text">Ringkasan berita politik terbaru hari ini...</p>
+                    </div>
+                </a>
                 </div>
-                <h5 class="card-title">Judul Berita Politik</h5>
-                <p class="card-text">Ringkasan berita politik terbaru hari ini...</p>
-                <a href="#" class="btn btn-sm">Baca Selengkapnya</a>
             </div>
-            </div>
-        </div>
-         <div class="col-md-4 mb-4">
-            <div class="card h-100">
-            <img src="<?php echo e(asset('img/Default.png')); ?>" class="card-img-top" alt="Politik">
-            <div class="card-body">
-                <div class="d-flex align-items-center mb-2">
-                    <span class="badge mb-0 me-2">Politik</span>
-                    <span class="tanggal" style="">17 Juni 2025</span>
+             <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                <a href="#">
+                <img src="<?php echo e(asset('img/Default.png')); ?>" class="card-img-top" alt="Politik">
+                    <div class="card-body">
+                        <div class="d-flex align-items-center mb-2">
+                            <span class="badge mb-0 me-2">Politik</span>
+                            <span class="tanggal" style="">17 Juni 2025</span>
+                        </div>
+                        <h5 class="card-title">Judul Berita Politik</h5>
+                        <p class="card-text">Ringkasan berita politik terbaru hari ini...</p>
+                    </div>
+                </a>
                 </div>
-                <h5 class="card-title">Judul Berita Politik</h5>
-                <p class="card-text">Ringkasan berita politik terbaru hari ini...</p>
-                <a href="#" class="btn btn-sm">Baca Selengkapnya</a>
             </div>
-            </div>
-        </div>
-        <div class="col-md-4 mb-4">
-            <div class="card h-100">
-            <img src="<?php echo e(asset('img/Default.png')); ?>" class="card-img-top" alt="Politik">
-            <div class="card-body">
-                <div class="d-flex align-items-center mb-2">
-                    <span class="badge mb-0 me-2">Politik</span>
-                    <span class="tanggal" style="">17 Juni 2025</span>
+             <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                <a href="#">
+                <img src="<?php echo e(asset('img/Default.png')); ?>" class="card-img-top" alt="Politik">
+                    <div class="card-body">
+                        <div class="d-flex align-items-center mb-2">
+                            <span class="badge mb-0 me-2">Politik</span>
+                            <span class="tanggal" style="">17 Juni 2025</span>
+                        </div>
+                        <h5 class="card-title">Judul Berita Politik</h5>
+                        <p class="card-text">Ringkasan berita politik terbaru hari ini...</p>
+                    </div>
+                </a>
                 </div>
-                <h5 class="card-title">Judul Berita Politik</h5>
-                <p class="card-text">Ringkasan berita politik terbaru hari ini...</p>
-                <a href="#" class="btn btn-sm">Baca Selengkapnya</a>
             </div>
-            </div>
-        </div>
         </div>
     </div>
 
