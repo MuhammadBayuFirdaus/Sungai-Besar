@@ -1,6 +1,6 @@
 nav {
     font-family: "LT Internet", sans-serif;
-    color: #fff !important;
+    color: white;
     background: linear-gradient(
         90deg,
         rgb(44, 54, 139) 0%,
@@ -13,32 +13,32 @@ nav {
     height: auto;
 }
 
-.nav-link {
+a.nav-link {
     font-size: 1.2rem;
     color: white;
     border-bottom: 2px solid transparent;
     transition: border-color 0.3s;
 }
 
-.nav-link:hover {
-    color: white;
+a.nav-link:hover {
+    color: #f1b12d;
     border-bottom: 2px solid #f1b12d;
 }
 
-.btn {
+.btn.me-2 {
     color: white;
     border: 2px solid transparent;
     transition: color 0.3s;
 }
 
-.btn:hover {
+.btn.me-2:hover {
     color: #f1b12d;
     border: 2px solid #f1b12d;
 }
 
 .navbar-toggler {
     border: 2px solid #f1b12d;
-    color: #f1b12d;
+    color: white;
     border-radius: 8px;
     padding: 6px 12px;
 }

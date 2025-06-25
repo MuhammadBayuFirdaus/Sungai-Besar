@@ -30,7 +30,7 @@
         </ul>
       <div class="d-flex">
         <a href="#" class="btn me-2">Sign In</a>
-        <a href="#" class="btn">Sign Up</a>
+        <a href="#" class="btn me-2">Sign Up</a>
       </div>
       </div>
     </div>

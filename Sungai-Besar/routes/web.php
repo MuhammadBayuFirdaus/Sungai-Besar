@@ -14,6 +14,10 @@ Route::get('/kegiatan', function () {
     return view('kegiatan');
 });
 
+Route::get('/admin', function () {
+    return view('admin');
+});
+
 
 
 
