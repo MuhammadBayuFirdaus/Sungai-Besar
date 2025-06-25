@@ -22,7 +22,7 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav mx-auto">
           <li class="nav-item">
-            <a class="nav-link" href="{{ url('/beritaterkini') }}">Berita Terkini</a>
+            <a class="nav-link" href="{{ url('/berita') }}">Berita</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="{{ url('/kegiatan') }}">Kegiatan</a>

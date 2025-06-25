@@ -22,7 +22,7 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav mx-auto">
           <li class="nav-item">
-            <a class="nav-link" href="<?php echo e(url('/beritaterkini')); ?>">Berita Terkini</a>
+            <a class="nav-link" href="<?php echo e(url('/berita')); ?>">Berita</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="<?php echo e(url('/kegiatan')); ?>">Kegiatan</a>

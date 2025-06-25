@@ -6,8 +6,8 @@ Route::get('/', function () {
     return view('dashBoard');
 });
 
-Route::get('/beritaterkini', function () {
-    return view('beritaTerkini');
+Route::get('/berita', function () {
+    return view('berita');
 });
 
 Route::get('/kegiatan', function () {

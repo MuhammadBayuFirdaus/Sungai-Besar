@@ -14,7 +14,7 @@
 
     <!-- Daftar Berita -->
     <div class="container my-5">
-        <h2 class="mb-4">Berita Terkini</h2>
+        <h2 class="mb-4">Berita</h2>
         <div class="row">
             <div class="col-md-4 mb-4">
                 <div class="card h-100">
