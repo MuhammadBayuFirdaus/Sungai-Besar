@@ -1,0 +1,78 @@
+nav {
+    font-family: "LT Internet", sans-serif;
+    color: white;
+    background: linear-gradient(
+        90deg,
+        rgb(44, 54, 139) 0%,
+        rgb(4, 165, 79) 100%
+    );
+}
+
+.navbar-brand img {
+    width: 150px;
+    height: auto;
+}
+
+a.nav-link {
+    font-size: 1.2rem;
+    color: white;
+    border-bottom: 2px solid transparent;
+    text-transform: uppercase;
+    transition: border-color 0.3s;
+}
+
+a.nav-link:hover {
+    color: #f1b12d;
+    border-bottom: 2px solid #f1b12d;
+}
+
+.btn.me-2 {
+    color: white;
+    border: 2px solid transparent;
+    transition: color 0.3s;
+}
+
+.btn.me-2:hover {
+    color: #f1b12d;
+    border: 2px solid #f1b12d;
+}
+
+.navbar-toggler {
+    border: 2px solid #f1b12d;
+    color: white;
+    border-radius: 8px;
+    padding: 6px 12px;
+}
+
+.navbar-toggler:hover {
+    border: 2px solid white;
+    color: white;
+    outline: none;
+}
+
+.navbar-toggler:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+@media (max-width: 991.98px) {
+    .navbar-nav {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+    .nav-link {
+        text-align: center;
+        width: 100%;
+        margin: 8px 0;
+    }
+
+    .btn {
+        display: block;
+        margin: 12px auto;
+        width: 80%;
+        max-width: 300px;
+        text-align: center;
+    }
+}

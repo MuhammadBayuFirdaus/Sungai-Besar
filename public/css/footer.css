@@ -1,0 +1,30 @@
+footer {
+    font-family: "LT Internet", sans-serif;
+    color: #fff !important;
+    background: linear-gradient(
+        90deg,
+        rgb(44, 54, 139) 0%,
+        rgb(4, 165, 79) 100%
+    );
+}
+
+.col-md-3.mb-4 img {
+    max-width: 150px; /* Perbesar ukuran logo */
+    height: auto;
+    display: block;
+}
+
+h6.mb-3 {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+li a {
+    color: rgba(255, 255, 255, 0.5);
+    text-decoration: none;
+    display: block;
+}
+
+li a:hover {
+    color: #f1b12d;
+}
