@@ -63,7 +63,7 @@
             </div>
         </div>
 
-        <h2 class="mb-4">Kegiatan lain</h2>
+        <h2 class="mb-4">Kegiatan</h2>
         <div class="row">
             <div class="col-md-4 mb-4">
                 <div class="card h-100">
